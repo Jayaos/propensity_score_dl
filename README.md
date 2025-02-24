@@ -20,8 +20,8 @@ We provide Jupyter notebooks for reproducing the experiments.
 ### Citation
 
 @article{lee2024inverse,
-  title={Inverse Probability of Treatment Weighting with Deep Sequence Models Enables Accurate treatment effect Estimation from Electronic Health Records},
-  author={Lee, Junghwan and Ma, Simin and Serban, Nicoleta and Yang, Shihao},
-  journal={arXiv preprint arXiv:2406.08851},
-  year={2024}
+  author    = {Lee, Junghwan and Ma, Simin and Serban, Nicoleta and Yang, Shihao},
+  title     = {Inverse Probability of Treatment Weighting with Deep Sequence Models Enables Accurate treatment effect Estimation from Electronic Health Records},
+  journal   = {arXiv preprint arXiv:2406.08851},
+  year      = {2024}
 }
