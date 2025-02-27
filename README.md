@@ -3,6 +3,7 @@
 This repository contains codes for implementing models and reproducing the experiments in our paper ["Accurate Treatment Effect Estimation using Inverse Probability of Treatment Weighting with Deep Learning"](https://arxiv.org/abs/2406.08851).
 
 ![Sample Image](images/DLPS_fig2.png)
+We used deep sequence models (LSTM and Transformer) to estimate the propensity score using the patient's electronic health records.
 
 
 ### Installation
